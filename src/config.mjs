@@ -1,9 +1,9 @@
 export const SITE = {
-  name: "AstroWind",
-  domain: "https://astrowind.vercel.app",
+  name: "Meraputi",
+  domain: "https://meraputi.asia",
 
-  title: "AstroWind — Your website with Astro + Tailwind CSS",
-  description: "🚀 AstroWind is a free and ready to start template to make your website using Astro and Tailwind CSS.",
+  title: "Meraputi - Digitalisasikan Indonesia",
+  description: "🚀 Meraputi adalah Perusahaan teknologi yang mempunyai visi digitalisasikan Indonesia.",
 
   postsPerPage: 6,
   
